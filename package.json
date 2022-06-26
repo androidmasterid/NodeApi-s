@@ -1,0 +1,26 @@
+{
+  "name": "nodeapi-s",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androidmasterid/NodeApi-s.git"
+  },
+  "keywords": [
+    "restfull",
+    "api"
+  ],
+  "author": "harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/androidmasterid/NodeApi-s/issues"
+  },
+  "homepage": "https://github.com/androidmasterid/NodeApi-s#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
