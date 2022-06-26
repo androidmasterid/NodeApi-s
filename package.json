@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/androidmasterid/NodeApi-s#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "nodemon": "^1.19.4"
   },
   "devDependencies": {
     "eslint": "^8.18.0",
